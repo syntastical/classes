@@ -8,11 +8,11 @@ CAD (computer-aided design) is the use of computer-based software to aid in desi
 ## Login
 [https://www.tinkercad.com](https://www.tinkercad.com)
 
-1. Click the `Log In` link upper right
-2. Under 'In school section' click `Students with Class Code`
-3. Enter the following class code `KDHCN4V3GA3K`
-4. Click `Join with Nickname`
-5. Enter the nickname as the word guppy followed by the computer number you're on, like `guppy6`
+2. Click the `Log In` link upper right
+3. Under 'In school section' click `Students with Class Code`
+4. Enter the following class code `KDHCN4V3GA3K`
+5. Click `Join with Nickname`
+6. Enter the nickname as the word guppy followed by the computer number you're on, like `guppy6`
 
 ## Daily
 After logging in

@@ -9,7 +9,7 @@ function init() {
 }
 
 function keypress(event) {
-    // Prevent the browser from doing what it normal would do with the keypress
+    // Prevent the browser from doing what it normally would do with the keypress
     event.preventDefault();
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     // Console log the event so we can see what's happening
