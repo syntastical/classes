@@ -82,7 +82,8 @@ CSS stands for `Cascading Style Sheets` and is used to transform plain black and
 ## Element selection
 Elements can be selected by their tag type, id, and/or class, with the most common being class.  Elements can also be selected based on their relation to other elements.
 
-[Example of simple element selection](examples/selecting-elements.html)
-[Example of selecting based on attribute](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
-[Example of selecting based pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
-[Example of selecting based pseudo classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+1. [Example of simple element selection](examples/selecting-elements.html)
+2. [Example of selecting based on attribute](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+3. [Example of selecting based pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+4. [Example of selecting based pseudo classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+5. [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
