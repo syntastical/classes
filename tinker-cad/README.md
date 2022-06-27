@@ -61,3 +61,6 @@ Left click drag a shapes scaling box while holding the `shift` key.
 2. Make a car
 3. Make a building
 4. Make an animal
+
+# Links
+1. https://www.youtube.com/c/MakerClubOrg
