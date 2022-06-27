@@ -15,6 +15,7 @@ In this class we will be learning about game development.  We will using web tec
 | FPS         | Frames Per Second.  The amount of times the code is able to redraw the scene. |
 | Sprite      | Images, often used as 2D GameObjects. In 3D, sprites generally function as textures. |
 | Texture     | A visual wrapping placed around GameObjects, such as the skin on a character. |
+| Camera  | The "lens" use to view the scene |  
 
 # Typical Types of scenes
 
