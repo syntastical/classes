@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>Assignment 2</title>
+    </head>
+    <body>
+        <div id="output">
+
+        </div>
+
+        <script>
+            let hero = {
+                hitpoints: 32,
+                strength: 6,
+                name: "Good guy"
+            };
+
+            let villain = {
+                hitpoints: 43,
+                strength: 4,
+                name: "Evil guy"
+            }
+
+            /*
+             * A hero and villain are locked in a battle, and we need to figure out who will win.
+             *
+             * Below is a for loop where we need to implement our battle between our hero and the villain.
+             * Here ar the rules:
+             * 1. The hero attacks first then the villain.
+             * 2. If either the hero or villain's hitpoints drops below 0 the battle is over.
+             * 3. Once the battle has ended, use the output(name, hitpoints) function to output the victors name and their current hitpoints.
+             *
+             * You will need to use the following statements:
+             * 1. IF
+             * 2. BREAK
+             */
+            for(let turn=0; turn < 10; turn++) {
+                // YOUR CODE HERE
+                output("winner", 1); // DELETE ME
+                break; // DELETE ME
+                // END OF YOUR CODE
+            }
+
+            function output(name, hitpoints) {
+                document.getElementById("output").innerText += `The victor is ${name}.  ${hitpoints} hitpoints remain.`;
+            }
+        </script>
+    </body>
+</html>

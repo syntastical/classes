@@ -8,6 +8,8 @@ function init() {
     drawCharacter(0,0, 0, 0);
 }
 
+// drawCharacter(spriteIndexX, spriteIndexY, positionX, positionY)
+// drawTile(tileIndexX, tileIndexY, positionX, positionY)
 function keypress(event) {
     // Prevent the browser from doing what it normally would do with the keypress
     event.preventDefault();
