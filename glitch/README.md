@@ -26,3 +26,10 @@ Bring any resources needed to login to an email account.
 ## Objectives
 1. Learn about ReactJS.
 2. Start `React` project.
+
+# Project #5
+## Objectives
+1. Review HTML/JS/Node.
+2. Learn about GitHub.
+3. Import project from GitHub `syntastical/classes:glitch/project5`.
+4. Update project 5 with new images, colors, etc to be a site about a topic of interest.
